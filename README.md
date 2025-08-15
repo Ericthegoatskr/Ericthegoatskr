@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);残风同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);You are my sunshine!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/HIM198/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
@@ -28,8 +28,8 @@
 <br>
  
 <p align="center">
-  <a href="https://github.com/HIM198" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
+  <a href="https://github.com/Ericthegoatskr" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ericthegoatskr&title_color=333&text_color=777" alt="Ericthegoatskr's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
     -->
