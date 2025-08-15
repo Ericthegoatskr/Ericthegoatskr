@@ -38,18 +38,14 @@ I also joined the **UC Davis Communication and Culture Program** to expand my in
   </a>
 </p>
  
-<p align="center">
-  <a href="https://space.bilibili.com/" target="_blank" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
   &emsp;
-  <a href="https://www.instagram.com/" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/loboeric_/" target="_blank" title="Instagram">
     <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/" target="_blank" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ericthegoat/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="28px"/>
+</a>
 </p>
 
 ---
