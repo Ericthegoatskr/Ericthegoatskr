@@ -27,8 +27,7 @@
 </details>
   
 ✨ I am from **Kaohsiung, Taiwan**, with a strong passion for technology and continuous learning.  
-During my undergrad, I interned in the information department at **USI Corporation**, focusing on **industrial safety image recognition**.  
-I also joined the **UC Davis Communication and Culture Program** to expand my international perspective.  
+During my undergrad, I interned in the information department at **USI Corporation**, focusing on **industrial safety image recognition**.   
 
 ---
 
