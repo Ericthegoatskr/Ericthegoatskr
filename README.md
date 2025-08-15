@@ -8,7 +8,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=Ericthegoatskr&label=Visitors&color=blue&style=flat&logo=github" alt="github-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="https://github.com/Ericthegoatskr">Eric Tsai</a>
+## Hi, 👋  I'm <a href="https://github.com/Ericthegoatskr">Eric Tsai!</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
 <details><summary>(Click to expand) <em><b>I love connecting with people</b> — feel free to <a href="https://github.com/Ericthegoatskr/Ericthegoatskr/issues">say <b>"hi"</b></a> anytime!</em></summary>
