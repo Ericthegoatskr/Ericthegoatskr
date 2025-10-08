@@ -49,13 +49,18 @@ During my undergrad, I interned in the information department at **USI Corporati
 
 ---
 
-### 🧠 Tech & Projects
+### 🧠 Featured Projects
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-- [SkyGazer Weather App](https://github.com/Ericthegoatskr/SkyGazer) — Weather forecast with animations & modern UI
-- [Food Map Web App](https://github.com/Ericthegoatskr/foodmap2) — Google Maps API & category filtering
-- [Basketball Scoring App](https://github.com/Ericthegoatskr/scoreboard) — Flutter-based scoring system
-- YOLO-based Industrial Safety Monitoring — PPE detection & unsafe behavior recognition
+| Project | Tech Highlights | What I Built |
+| --- | --- | --- |
+| [AquqSync](https://github.com/Ericthegoatskr/AquqSync) | CSS · Real-time Dashboards · IoT Integrations | A Taiwan Reservoir platform that visualizes live water metrics with responsive layouts and alerting. |
+| [NBA Data Analysis](https://github.com/Ericthegoatskr/NBA-Data-Analysis) | Python · Data Pipelines · Power BI | Automated NBA data ETL powering interactive Power BI reports and predictive metrics. |
+| [Scoreboard](https://github.com/Ericthegoatskr/scoreboard) | SwiftUI · Realtime Updates · CloudKit | An iOS app for tracking basketball scores with shareable stats and multi-court support. |
+| [SkyGazer](https://github.com/Ericthegoatskr/SkyGazer) | Flutter · REST APIs · Animation | A playful, animated weather experience with forecasts, alerts, and location-aware insights. |
+| [foodmap2](https://github.com/Ericthegoatskr/foodmap2) | Next.js · Google Maps Platform · Cloud Firestore | A dining discovery map featuring geolocation search, curated lists, and saved favorites. |
+
+> 💡 These are the pinned repositories on my GitHub profile—each one reflects a milestone in my journey across AI, mobile, and web development.
 
 ---
 
