@@ -57,7 +57,7 @@ During my undergrad, I interned in the information department at **USI Corporati
 | [AquqSync](https://github.com/Ericthegoatskr/AquqSync) | CSS · Real-time Dashboards · IoT Integrations | A Taiwan Reservoir platform that visualizes live water metrics with responsive layouts and alerting. |
 | [NBA Data Analysis](https://github.com/Ericthegoatskr/NBA-Data-Analysis) | Python · Data Pipelines · Power BI | Automated NBA data ETL powering interactive Power BI reports and predictive metrics. |
 | [Scoreboard](https://github.com/Ericthegoatskr/scoreboard) | SwiftUI · Realtime Updates · CloudKit | An iOS app for tracking basketball scores with shareable stats and multi-court support. |
-| [SkyGazer](https://github.com/Ericthegoatskr/SkyGazer) | Flutter · REST APIs · Animation | A playful, animated weather experience with forecasts, alerts, and location-aware insights. |
+| [SkyGazer](https://github.com/Ericthegoatskr/SkyGazer) | REST APIs · Animation | A playful, animated weather experience with forecasts, alerts, and location-aware insights. |
 | [foodmap2](https://github.com/Ericthegoatskr/foodmap2) | Next.js · Google Maps Platform · Cloud Firestore | A dining discovery map featuring geolocation search, curated lists, and saved favorites. |
 
 > 💡 These are the pinned repositories on my GitHub profile—each one reflects a milestone in my journey across AI, mobile, and web development.
