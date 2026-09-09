@@ -4,34 +4,34 @@
 
 **前端與資料工程 | 公開資料儀表板 | 電腦視覺**
 
-🎓 蒙納許大學資訊科技碩士（Monash University, 墨爾本）| 🇹🇼 高雄 → 🇦🇺 墨爾本
-🏫 義守大學資訊工程系學士
-🔬 曾任環鴻科技（USI）資訊部 AI 實習生——工業安全影像辨識（YOLO）
+🎓 蒙納許大學資訊科技碩士（Monash University, 墨爾本）| 🇹🇼 高雄 → 🇦🇺 墨爾本<br>
+🏫 義守大學資訊工程系學士<br>
+🔬 曾任環鴻科技（USI）資訊部 AI 實習生——工業安全影像辨識（YOLO）<br>
 💡 用政府開放資料做儀表板，並把資料品質直接攤在頁面上
 
 ---
 
 ### 🛠️ 技術棧
 
-**網頁**
+**網頁**<br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**資料與 AI**
+**資料與 AI**<br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
-**行動端**
+**行動端**<br>
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 
-**工具鏈**
+**工具鏈**<br>
 ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
