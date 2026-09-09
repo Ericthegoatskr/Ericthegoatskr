@@ -37,6 +37,15 @@ jobs:
           THEME: github
           AUTO_PUSH: false
 
+      - name: Stash light cards
+        # Each invocation of the action starts by emptying
+        # profile-summary-card-output, so the light cards have to be held
+        # outside that directory while the dark run happens.
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/cards"
+          cp -r "profile-summary-card-output/$LIGHT_THEME" "$RUNNER_TEMP/cards/"
+
       - name: Generate dark cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -46,6 +55,11 @@ jobs:
           UTC_OFFSET: 10
           THEME: github_dark
           AUTO_PUSH: false
+
+      - name: Restore light cards
+        run: |
+          set -euo pipefail
+          cp -r "$RUNNER_TEMP/cards/$LIGHT_THEME" profile-summary-card-output/
 
       - name: Commit cards
         run: |
