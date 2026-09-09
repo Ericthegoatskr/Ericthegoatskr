@@ -1,0 +1,30 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # 18:00 UTC daily = 04:00 Melbourne (AEST) / 05:00 (AEDT)
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: generate-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses a personal access token if you add one as the SUMMARY_GITHUB_TOKEN
+          # repo secret; otherwise falls back to the built-in token, which the
+          # `permissions: contents: write` block above grants push access.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          # Melbourne is UTC+10 (AEST); the productive-time card reads local hours.
+          UTC_OFFSET: 10
+          AUTO_PUSH: true
