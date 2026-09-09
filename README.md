@@ -6,7 +6,7 @@
 
 🎓 M.IT @ Monash University, Melbourne | 🇹🇼 Kaohsiung → 🇦🇺 Melbourne<br>
 🏫 B.S. in Information Engineering @ I-Shou University<br>
-🔬 Former IT intern @ USI Corporation — industrial safety image recognition (YOLO)<br>
+🔬 Former IT intern @ USI Management Consulting — industrial safety image recognition (YOLO)<br>
 💡 Building dashboards on open government data, with the data quality shown on the page
 
 ---
