@@ -1,34 +1,34 @@
-# 👋 Hi, I'm Eric Tsai (蔡承諺)
+# 👋 Eric Tsai (蔡承諺)
 
 **English** · [繁體中文](README.zh-TW.md)
 
-I’m studying for a Master of Information Technology at Monash University in Melbourne. I build public-data dashboards and browser experiments with computer vision. For my dashboards, I like showing when the data was last updated and which readings were left out.
+I’m pursuing a Master of Information Technology at Monash University in Melbourne. My projects focus on public data dashboards and browser applications that use computer vision. I design dashboards that show when data was last updated and which readings were excluded.
 
-I’m from Kaohsiung and earned my bachelor’s degree in Information Engineering at I-Shou University. During my IT internship at USI Management Consulting, I worked on industrial safety image recognition with YOLO.
+I’m originally from Kaohsiung and hold a bachelor’s degree in Information Engineering from I-Shou University. As an IT intern at USI Management Consulting, I worked on YOLO-based image recognition for industrial safety.
 
-## Selected projects
+## 📌 Selected Projects
 
-| Project | What it does | Try it |
+| Project | Overview | Live Demo |
 | --- | --- | --- |
-| [Melbourne Daily](https://github.com/Ericthegoatskr/melbourne-daily) | Weather, UV, air quality, parking and public transport in one dashboard. Find nearby train, tram and bus stops and check departures. | [Open dashboard](https://ericthegoatskr.github.io/melbourne-daily/) |
-| [Melbourne Street Parking](https://github.com/Ericthegoatskr/melbourne-parking-dashboard) | Find street parking near a destination in the City of Melbourne. The dashboard shows how recent the council data is and excludes sensors that have stopped reporting. | [Open dashboard](https://ericthegoatskr.github.io/melbourne-parking-dashboard/) |
-| [Crunch Lab](https://github.com/Ericthegoatskr/crunch-lab) | Squeeze and crack 3D desserts in the browser with hand tracking. Built with Three.js, MediaPipe and the Web Audio API. | [Play](https://ericthegoatskr.github.io/crunch-lab/) |
-| [Crashout Cam](https://github.com/Ericthegoatskr/crashout-cam) | A webcam toy that turns facial expressions and hand gestures into meme reactions. Camera frames are processed on the device. | [Play](https://ericthegoatskr.github.io/crashout-cam/) |
-| [AquaSync](https://github.com/Ericthegoatskr/AquaSync) | Track reservoir storage across Taiwan and filter readings by region using open data from Taiwan’s Water Resources Agency. | [Open dashboard](https://ericthegoatskr.github.io/AquaSync/) |
+| [Melbourne Daily](https://github.com/Ericthegoatskr/melbourne-daily) | A Melbourne dashboard for weather, UV, air quality, parking and public transport, with nearby stop search and departure information for trains, trams and buses. | [Open dashboard](https://ericthegoatskr.github.io/melbourne-daily/) |
+| [Melbourne Street Parking](https://github.com/Ericthegoatskr/melbourne-parking-dashboard) | A street parking dashboard for the City of Melbourne with search by destination. It shows how recently the council data was updated and excludes sensors that have not reported recently from availability counts. | [Open dashboard](https://ericthegoatskr.github.io/melbourne-parking-dashboard/) |
+| [Crunch Lab](https://github.com/Ericthegoatskr/crunch-lab) | An interactive 3D simulation that uses hand tracking to let users squeeze and crack virtual desserts. Built with Three.js, MediaPipe and the Web Audio API. | [Launch demo](https://ericthegoatskr.github.io/crunch-lab/) |
+| [Crashout Cam](https://github.com/Ericthegoatskr/crashout-cam) | A computer vision demo that maps facial expressions and hand gestures to meme reactions. All camera frames are processed on the device. | [Launch demo](https://ericthegoatskr.github.io/crashout-cam/) |
+| [AquaSync](https://github.com/Ericthegoatskr/AquaSync) | A dashboard for monitoring reservoir storage across Taiwan, with regional filters and open data from Taiwan’s Water Resources Agency. | [Open dashboard](https://ericthegoatskr.github.io/AquaSync/) |
 | [BoxScore](https://github.com/Ericthegoatskr/scoreboard) | An offline SwiftUI basketball scoreboard for tracking team scores and individual player stats. | |
 
 **More projects** · [NBA Data Analysis](https://github.com/Ericthegoatskr/NBA-Data-Analysis) · [SkyGazer](https://github.com/Ericthegoatskr/SkyGazer)
 
-## Tech stack
+## 🛠️ Technical Skills
 
 - **Web & maps** · TypeScript, JavaScript, React, Leaflet
 - **Computer vision & graphics** · Three.js, MediaPipe, YOLO
 - **Data & mobile** · Python, pandas, SwiftUI
 - **Build & testing** · Vite, Vitest, GitHub Actions
 
-## Contact
+## 📫 Contact
 
-I’m open to graduate roles and internships in Melbourne in frontend and data engineering.
+I’m interested in graduate and internship opportunities in frontend development and data engineering in Melbourne.
 
 [LinkedIn](https://www.linkedin.com/in/ericthegoat/) · [Email](mailto:tsaieric15@gmail.com) · [Instagram](https://www.instagram.com/loboeric_/)
 
