@@ -1,34 +1,34 @@
-# 👋 你好，我是蔡承諺 Eric Tsai
+# 👋 蔡承諺 Eric Tsai
 
 [English](README.md) · **繁體中文**
 
-我來自高雄，目前在墨爾本的蒙納許大學讀資訊科技碩士。平常用開放資料做儀表板，也用電腦視覺做瀏覽器小實驗。我會在儀表板上標示資料何時更新、哪些讀值未被採計。
+我目前在墨爾本的蒙納許大學攻讀資訊科技碩士。專案主要聚焦於開放資料儀表板與瀏覽器端的電腦視覺應用。我在儀表板上標示資料更新時間與未採計的讀值，方便使用者判斷資料的時效性。
 
-我畢業於義守大學資訊工程學系，曾在台聚管理顧問股份有限公司資訊處實習，用 YOLO 做工業安全影像辨識。
+我來自高雄，畢業於義守大學資訊工程學系。曾在台聚管理顧問股份有限公司資訊處實習，運用 YOLO 進行工業安全影像辨識。
 
-## 精選專案
+## 📌 精選專案
 
-| 專案 | 功能 | 線上體驗 |
+| 專案 | 專案簡介 | 線上體驗 |
 | --- | --- | --- |
-| [Melbourne Daily](https://github.com/Ericthegoatskr/melbourne-daily) | 整合墨爾本天氣、紫外線、空氣品質、停車和大眾運輸。可查附近的火車、電車與公車站點及發車資訊。 | [開啟儀表板](https://ericthegoatskr.github.io/melbourne-daily/) |
-| [Melbourne Street Parking](https://github.com/Ericthegoatskr/melbourne-parking-dashboard) | 查詢墨爾本市目的地附近的路邊車位。頁面會顯示市政府資料的更新狀態，並把未回報的感測器排除在空位統計之外。 | [開啟儀表板](https://ericthegoatskr.github.io/melbourne-parking-dashboard/) |
-| [Crunch Lab](https://github.com/Ericthegoatskr/crunch-lab) | 用手勢在瀏覽器裡捏裂 3D 甜點。以 Three.js 繪製畫面、MediaPipe 追蹤手部，並用 Web Audio API 合成音效。 | [試玩](https://ericthegoatskr.github.io/crunch-lab/) |
-| [Crashout Cam](https://github.com/Ericthegoatskr/crashout-cam) | 用表情與手勢切換迷因反應的相機小工具。相機畫面在裝置上處理。 | [試玩](https://ericthegoatskr.github.io/crashout-cam/) |
-| [AquaSync](https://github.com/Ericthegoatskr/AquaSync) | 用經濟部水利署開放資料查看全台水庫蓄水量，並依地區篩選。 | [開啟儀表板](https://ericthegoatskr.github.io/AquaSync/) |
+| [Melbourne Daily](https://github.com/Ericthegoatskr/melbourne-daily) | 整合墨爾本天氣、紫外線、空氣品質、停車與大眾運輸資訊，支援附近火車、電車與公車站點及發車時間查詢。 | [開啟儀表板](https://ericthegoatskr.github.io/melbourne-daily/) |
+| [Melbourne Street Parking](https://github.com/Ericthegoatskr/melbourne-parking-dashboard) | 提供墨爾本市路邊停車查詢，可依目的地搜尋附近車位。頁面顯示市政府資料的更新時間，空位統計會排除近期未回報的感測器。 | [開啟儀表板](https://ericthegoatskr.github.io/melbourne-parking-dashboard/) |
+| [Crunch Lab](https://github.com/Ericthegoatskr/crunch-lab) | 在瀏覽器中透過手勢操控 3D 甜點的擠壓與碎裂。使用 Three.js 渲染畫面、MediaPipe 追蹤手部，並以 Web Audio API 合成音效。 | [開啟體驗](https://ericthegoatskr.github.io/crunch-lab/) |
+| [Crashout Cam](https://github.com/Ericthegoatskr/crashout-cam) | 電腦視覺展示專案，透過臉部表情與手勢觸發不同的迷因反應。相機影像均在使用者裝置上處理。 | [開啟體驗](https://ericthegoatskr.github.io/crashout-cam/) |
+| [AquaSync](https://github.com/Ericthegoatskr/AquaSync) | 採用經濟部水利署的開放資料，呈現全台水庫蓄水狀況，並提供地區篩選。 | [開啟儀表板](https://ericthegoatskr.github.io/AquaSync/) |
 | [BoxScore](https://github.com/Ericthegoatskr/scoreboard) | 用 SwiftUI 開發的離線籃球計分板，可記錄球隊比分與球員個人數據。 | |
 
 **其他專案** · [NBA Data Analysis](https://github.com/Ericthegoatskr/NBA-Data-Analysis) · [SkyGazer](https://github.com/Ericthegoatskr/SkyGazer)
 
-## 常用技術
+## 🛠️ 常用技術
 
 - **網頁與地圖** · TypeScript, JavaScript, React, Leaflet
 - **電腦視覺與 3D** · Three.js, MediaPipe, YOLO
 - **資料與行動端** · Python, pandas, SwiftUI
 - **建置與測試** · Vite, Vitest, GitHub Actions
 
-## 聯絡我
+## 📫 聯絡方式
 
-目前在找墨爾本的前端與資料工程新鮮人職缺和實習機會。
+目前正尋找墨爾本地區的前端開發與資料工程應屆畢業生職缺及實習機會。
 
 [LinkedIn](https://www.linkedin.com/in/ericthegoat/) · [Email](mailto:tsaieric15@gmail.com) · [Instagram](https://www.instagram.com/loboeric_/)
 
